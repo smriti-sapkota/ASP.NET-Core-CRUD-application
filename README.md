@@ -16,19 +16,16 @@ Learning and practicing ASP.NET Core MVC with database integration.
 ### Index
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a7b740d9-e121-4c55-9cb5-1d1096a30374" />
 
-
 ### Create
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/3ed252cc-c165-4892-9b14-d9e927b4d705" />
-
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/9a62bad8-4896-4bac-8320-6e4c489535b8" />
 
 ### Edit
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/5cc2476e-a243-4402-8d12-6849d5b33761" />
-
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/fb4ecd6e-d048-4fc0-8073-db9938ff3d13" />
 
 ### Details
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f1d2bbb8-5206-4e89-97ba-952fe25cbbfc" />
-
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/de502cce-b3c4-4702-84b3-ddc81d1a959c" />
 
 ### Delete
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/95894bc7-f324-4777-87bd-aeb655e876b8" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/87344b42-3cec-4a6d-ad6e-8a7bd12fdc46" />
+
 
